@@ -1,0 +1,19 @@
+This dashboard provides various data visualizations and metrics aimed at analyzing and detecting potential fraud within credit card transactions. Here's a breakdown of the elements and metrics presented in the dashboard, along with an explanation of their possible significance:
+
+Occupation Type and Housing Type Filters: These filters allow users to segment the data based on the occupation and housing type of the credit card holders. This can help in identifying fraud patterns specific to certain demographics.
+
+Education and Income Type Filters: Similar to occupation and housing filters, these allow for data segmentation based on the education level and income type of the cardholders, aiding in a more nuanced analysis of fraud risk.
+
+Rating Client by Target: Displays the distribution of clients across three target ratings, possibly indicating risk levels or fraud occurrences with percentages to show the proportion of each rating within the dataset.
+
+Gender by Income and Family Status: These metrics show the distribution of gender across different income brackets and family statuses, which could be useful in identifying fraud trends related to these demographics.
+
+Occupation - Annuity and Region Population Relative: This section likely correlates individuals' occupations and their annuity amounts with the population density of their regions, potentially highlighting areas or professions with higher fraud rates.
+
+Days Employed and Annuity Amounts: Lists individuals' employment duration against their annuity amounts. Extreme values or outliers in days employed or annuity amounts could signal fraudulent activity or require further investigation.
+
+Education, Car Ownership, and Target: This part seems to provide a detailed breakdown of clients' education levels, whether they own a car, and their target ratings. This data can be crucial in identifying patterns or correlations between these factors and the likelihood of fraud.
+
+
+
+https://lookerstudio.google.com/reporting/376c8802-7573-4fe8-ac70-211d82eabcf9

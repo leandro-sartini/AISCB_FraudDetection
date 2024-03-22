@@ -1,7 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# In[2]:
 
 
 import pandas as pd
@@ -13,7 +10,7 @@ from imblearn.under_sampling import NearMiss
 from sklearn.model_selection import train_test_split,cross_val_score,KFold,RandomizedSearchCV
 
 
-# In[3]:
+
 
 
 def mid_sampling(X_train,Y_train,target_minority_samples=180000):
@@ -64,8 +61,6 @@ def mid_sampling(X_train,Y_train,target_minority_samples=180000):
     
     return X_train,Y_train
 
-
-# In[ ]:
 
 
 

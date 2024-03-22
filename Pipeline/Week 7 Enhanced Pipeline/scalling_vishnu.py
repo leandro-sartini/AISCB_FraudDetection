@@ -1,7 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# In[1]:
 
 
 import pandas as pd
@@ -13,7 +10,7 @@ from imblearn.under_sampling import NearMiss
 from sklearn.model_selection import train_test_split,cross_val_score,KFold,RandomizedSearchCV
 
 
-# In[2]:
+
 
 
 def scaling(X_train,X_test):
@@ -26,7 +23,7 @@ def scaling(X_train,X_test):
     return X_train,X_test
 
 
-# In[ ]:
+
 
 
 

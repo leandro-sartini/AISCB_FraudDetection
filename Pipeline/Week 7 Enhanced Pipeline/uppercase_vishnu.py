@@ -1,7 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
 
-# In[3]:
 
 
 import pandas as pd
@@ -12,7 +9,7 @@ from imblearn.over_sampling import ADASYN
 from imblearn.under_sampling import NearMiss
 
 
-# In[4]:
+
 
 
 def uppercase_str(df):
@@ -21,7 +18,7 @@ def uppercase_str(df):
     return df
 
 
-# In[ ]:
+
 
 
 

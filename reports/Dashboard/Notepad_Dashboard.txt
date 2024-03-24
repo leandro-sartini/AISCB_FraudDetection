@@ -1,0 +1,15 @@
+Week-9
+
+DashBoard
+
+Using LookerStudio I have done the following steps:
+
+Step 1: Prepared the Data
+Ensured the dataset, such as the fraud detection dataset, is clean and structured. As the is in a CSV file, I have uploaded it to Google Sheets for easier integration.
+Step 2: Accessing Looker Studio
+Logged in with my google account on to looker studio website.I have created a new report and added the data source to the new report and familiarized myself with the interface.
+Step 3: Designed the Dashboard
+Added Charts:I have started with a pie chart to show the distribution of target variable based on the gender,bar charts to display income distributions and scatter plot to explore relationships between numerical variables.
+
+
+Link to the dashboard:https://lookerstudio.google.com/u/0/reporting/ee7a2a3f-9d0e-4a81-9422-4e995cfe4121/page/v6asD/edit
